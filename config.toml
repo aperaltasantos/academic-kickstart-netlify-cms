@@ -7,7 +7,7 @@ footnotereturnlinkcontents = "hey"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 10.0
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "health policy", "medicine", "global health"
 defaultContentLanguage = "en"
 hasCJKLanguage = false
 defaultContentLanguageInSubdir = false
@@ -23,8 +23,8 @@ hrefTargetBlank = true
 smartypants = true
 
 [params]
-address = "Seattle"
-avatar = "/img/bubbles-wide.jpg"
+address = "1510 San Juan Rd, Seattle, WA 98195"
+avatar = "/img/photo.jpg"
 color_theme = "default"
 comment_count = true
 custom_css = []
@@ -44,14 +44,14 @@ map_api_key = ""
 math = false
 name = "Andre Peralta Santos"
 office_hours = "Monday 10:00 to 13:00 or email for appointment"
-phone = "888 888 88 88"
+phone = "+1 206 201 9944"
 privacy_pack = false
 publication_types = ["Uncategorized", "Conference paper", "Journal article", "Manuscript", "Report", "Book", "Book section"]
 reading_time = true
-role = "Android Developer and PhD Student"
+role = "PhD Student"
 section_pager = true
 sharing = true
-skype = "echo123"
+skype = "andreperaltasantos"
 telegram = ""
 time_format = "3:04 PM"
 zoom = 15.0
@@ -60,8 +60,8 @@ zoom = 15.0
 align_right = true
 
 [[params.organizations]]
-name = "University of Salamanca"
-url = "www.usal.es"
+name = "University of washington"
+url = "https://www.washington.edu/"
 
 [params.projects]
 list_children = true
@@ -70,22 +70,22 @@ publication_format = 3.0
 [[params.social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:test@example.org"
+link = "mailto:aperalta@uw.edu"
 
 [[params.social]]
 icon = "twitter"
 icon_pack = "fa"
-link = "//twitter.com/GeorgeCushen"
+link = "//twitter.com/andre_peralta"
 
 [[params.social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+link = "https://scholar.google.com/citations?user=Cjg0oXYAAAAJ&hl=en"
 
 [[params.social]]
 icon = "github"
 icon_pack = "fa"
-link = "//github.com/gcushen"
+link = "https://github.com/aperaltasantos"
 
 [params.talks]
 time = true
