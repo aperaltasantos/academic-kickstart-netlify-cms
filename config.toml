@@ -59,10 +59,12 @@ zoom = 15.0
 align_right = true
 
 [[params.organizations]]
-name = "University of washington"
-url = "https://www.washington.edu/"
+[{name = "University of washington"
+url = "https://www.washington.edu/"},
+{name = "NOVA University of Lisbon"
+url = "https://www.unl.pt/en"}]
 
-[params.projects]
+
 list_children = true
 publication_format = 3.0
 
