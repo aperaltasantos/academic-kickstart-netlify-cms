@@ -1,6 +1,6 @@
 ---
 title: Manchester Triage System version II and resource utilisation in the emergency department
-date: '2018-05-09T16:39:14+02:00'
+date: '2014-05-09T16:39:14+02:00'
 authors:
   - André Peralta Santos, Paulo Freitas, Henrique Manuel Gil Martins
 publication_types:
@@ -8,7 +8,7 @@ publication_types:
 header:
   caption: caption
   image: /img/pic_book1.jpg
-publication: 
+publication: Emerg Med J
 publication_short: 
 abstract: 
 abstract_short: 
