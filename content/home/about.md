@@ -8,7 +8,6 @@ interests:
     - Health Policy
     - Global Health
     - Health Systems
-    - 
 education:
   courses:
     - course: PhD Student
