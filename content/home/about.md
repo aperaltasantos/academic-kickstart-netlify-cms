@@ -8,8 +8,8 @@ interests:
     - Health Policy
     - Global Health
     - ML
-    - Padel
 education:
+  Degree:
     - Degree: PhD Student
       institution: University of Washington
       year: 2017-Present
