@@ -24,7 +24,7 @@ smartypants = true
 
 [params]
 address = "1510 San Juan Rd, Seattle, WA 98195"
-avatar = "static/img/photo.png"
+avatar = "img/photo.png"
 color_theme = "default"
 comment_count = true
 custom_css = []
