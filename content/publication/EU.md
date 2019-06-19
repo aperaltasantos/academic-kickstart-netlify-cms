@@ -7,7 +7,7 @@ publication_types:
   - '2'
 header:
   caption: caption
-  image: /img/pic_book.jpg
+  image: /img/pic_book1.jpg
 publication: European journal of public health
 publication_short: 
 abstract: The European Union (EU) Directive on Patients’ Rights in Cross-border Healthcare clarified the entitlements to medical care in other EU Member states. However, little is known about whether EU citizens have been travelling or are willing to travel to receive care. This study aimed to measure the determinants of cross-border patient mobility and willingness to travel to receive medical care in the EU, before and after the adoption of the Directive.

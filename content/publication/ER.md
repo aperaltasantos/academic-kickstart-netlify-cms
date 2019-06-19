@@ -7,7 +7,7 @@ publication_types:
   - '2'
 header:
   caption: caption
-  image: /img/pic_book.jpg
+  image: /img/pic_book1.jpg
 publication: 
 publication_short: 
 abstract: 
