@@ -5,19 +5,19 @@ date: '2018-05-08T00:00:00+02:00'
 weight: 5
 interests:
   interests:
-    - Machine Learning
-    - Comuter Science
-    - Ostias
+    - Health Policy
+    - Global Health
+    - ML
+    - Padel
 education:
-  courses:
-    - course: ML for dummies
-      institution: University of Salamanca
-      year: 2019
-    - course: Statistics
-      institution: University of Salamanca
-      year: 2019
-    - course: eeeed
-      institution: eeee
-      year: '2022'
+    - Degree: PhD Student
+      institution: University of Washington
+      year: 2017-Present
+    - Degree: Master Public Health
+      institution:   School of Public Health, NOVA University (Lisbon, PT)
+      year: 2015
+    - Degree: Medicine
+      institution: School of Medicine, NOVA University (Lisbon, PT) 
+      year: '2009'
 ---
-Hello, I'm Alvaro
+Hello, I'm Andre
