@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Andre Peralta Santos MD"
-copyright = "APS &copy; 2018"
+copyright = "© 2019-2029 A. Peralta Santos All Rights Reserved"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "hey"
@@ -24,7 +24,7 @@ smartypants = true
 
 [params]
 address = "1510 San Juan Rd, Seattle, WA 98195"
-avatar = "/img/photo.jpg"
+avatar = "static/img/photo.png"
 color_theme = "default"
 comment_count = true
 custom_css = []
