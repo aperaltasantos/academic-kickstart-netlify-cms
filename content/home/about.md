@@ -9,15 +9,15 @@ interests:
     - Global Health
     - ML
 education:
-  Degree:
-    - Degree: PhD Student
-      institution: University of Washington
-      year: 2017-Present
-    - Degree: Master Public Health
-      institution:   School of Public Health, NOVA University (Lisbon, PT)
-      year: 2015
-    - Degree: Medicine
-      institution: School of Medicine, NOVA University (Lisbon, PT) 
-      year: '2009'
+  courses:
+    - course: ML for dummies
+      institution: University of Salamanca
+      year: 2019
+    - course: Statistics
+      institution: University of Salamanca
+      year: 2019
+    - course: eeeed
+      institution: eeee
+      year: '2022'
 ---
 Hello, I'm Andre
