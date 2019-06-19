@@ -1,24 +1,21 @@
 ---
-title: Hello world
+title: An introduction
 date: '2018-05-09T01:05:00+02:00'
 lastmod: '2018-05-09T01:05:00+02:00'
 draft: false
 tags:
   - academic
-  - android
+  - Health Policy
 summary: A new post
 header:
-  caption: Unas burbujitas
-  image: /img/bubbles-wide.jpg
+  caption: Pacific North West
+  image: /img/lisbon.jpg
 ---
-# Heading
+# This is my first post 
 
-This is content
+This is my first post, today with no content, in the future you can expect content about health policy news arounf the world, science, and some more nerdy stuff from R to molecular cousine and indie rock.
 
-> This is a quote
+> “Without data, you're just another person with an opinion.” 
+― W. Edwards Deming
 
-```
-This is code
-```
 
-![An image](/img/portrait.jpg)
