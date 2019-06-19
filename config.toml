@@ -43,7 +43,6 @@ map = "2"
 map_api_key = ""
 math = false
 name = "Andre Peralta Santos"
-office_hours = "Monday 10:00 to 13:00 or email for appointment"
 phone = "+1 206 201 9944"
 privacy_pack = false
 publication_types = ["Uncategorized", "Conference paper", "Journal article", "Manuscript", "Report", "Book", "Book section"]
