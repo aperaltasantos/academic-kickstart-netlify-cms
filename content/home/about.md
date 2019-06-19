@@ -7,17 +7,18 @@ interests:
   interests:
     - Health Policy
     - Global Health
-    - ML
+    - Health Systems
+    - 
 education:
   courses:
-    - course: ML for dummies
-      institution: University of Salamanca
-      year: 2019
-    - course: Statistics
-      institution: University of Salamanca
-      year: 2019
-    - course: eeeed
-      institution: eeee
-      year: '2022'
+    - course: PhD Student
+      institution: University of Washington
+      year: 2017
+    - course: Master Public Health
+      institution: NOVA University (Lisbon, PT)
+      year: 2015
+    - course: Medicine
+      institution: NOVA University (Lisbon, PT)
+      year: '2009'
 ---
 Hello, I'm Andre
