@@ -13,7 +13,7 @@ filter:
     tag: '*'
   - name: Academic
     tag: .academic
-  - name: Android
-    tag: .android
+  - name: Personal
+    tag: .personal
 ---
 
