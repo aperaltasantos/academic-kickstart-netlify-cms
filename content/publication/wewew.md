@@ -1,8 +1,8 @@
 ---
-title: The best publication of the world
+title: Manchester Triage System version II and resource utilisation in the emergency department
 date: '2018-05-09T16:39:14+02:00'
 authors:
-  - El loza
+  - André Peralta Santos, Paulo Freitas, Henrique Manuel Gil Martins
 publication_types:
   - '2'
 header:
