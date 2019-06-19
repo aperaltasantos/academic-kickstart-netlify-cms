@@ -101,6 +101,7 @@ name = "Publications"
 url = "#publications"
 weight = 2.0
 
+
 [[menu.main]]
 name = "Posts"
 url = "#posts"
@@ -110,9 +111,6 @@ weight = 3.0
 name = "Projects"
 url = "#projects"
 weight = 4.0
-
-
-
 
 
 [[menu.main]]
