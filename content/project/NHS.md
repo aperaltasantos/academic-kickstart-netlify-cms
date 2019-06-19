@@ -12,6 +12,7 @@ header:
 ---
 
 This is an early phase project that I started during a course to improve my R skills and provides a simple dashboard to monitor the performance of a telephone triage in the Portuguese Health System.
+[In colaboration with Dr. Henrique Vasconcelos]
 
 ### Dashboard
 [Dashboard](http://rpubs.com/aperalta/503233)
