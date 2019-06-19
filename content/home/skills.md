@@ -1,6 +1,6 @@
 ---
 widget: publications
-active: true
+active: False
 date: '2018-05-10T00:00:00+02:00'
 title: Publications
 subtitle: Publications
