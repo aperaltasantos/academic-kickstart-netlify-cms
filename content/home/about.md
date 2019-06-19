@@ -25,4 +25,4 @@ Andre am an MD and a Public Health Specialist, with eight years of professional 
 
 Andre's career and interest have been moving towards a global health focus, primarily studying the impact of health policies, to advance that field He was awarded a Fulbright Scholarship to do a Ph.D. at the University of Washington.
 
-
+**If data is available, let’s look at data. If all we have are opinions, I will go with mine** 
