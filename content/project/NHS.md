@@ -2,7 +2,7 @@
 date: '2018-05-09T17:13:22+02:00'
 title: Project NHS Portugal 24
 summary: Dashboard to monitor the performance of a telephone triage
-image_preview: /img/NHS_small.png
+image_preview: /img/NHS_small.jpg
 tags:
   - academic
 math: true
