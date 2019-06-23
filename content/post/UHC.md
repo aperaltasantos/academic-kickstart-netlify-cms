@@ -1,7 +1,7 @@
 ---
 title: News on Health Policy 
-date: "`r Sys.Date()`"
-lastmod: "`r Sys.Date()`"
+date: `r Sys.Date()`
+lastmod: `r Sys.Date()`
 draft: false
 tags:
   - academic
