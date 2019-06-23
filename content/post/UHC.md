@@ -1,5 +1,5 @@
 ---
-title: News on Health Policy 
+title: Health Policy News  
 date: '2019-06-09T01:05:00+02:00'
 lastmod: '2019-06-09T01:05:00+02:00'
 draft: false
