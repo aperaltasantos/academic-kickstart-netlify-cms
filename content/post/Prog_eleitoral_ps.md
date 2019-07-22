@@ -41,11 +41,15 @@ Neste ponto há medidas interessantes de alargamento dos serviços incluídos no
 
 Sobre os profissionais de saúde há algumas medidas genéricas de aumento da eficiência na alocação geográfica de profissionais. Uma medida interessante ‘e a criação de creche para os filhos de profissionais de saúde, uma medida que em hospitais faz imenso sentido, mas que nos cuidados de saúde primários pode ser de mais difícil implementação, e até gerar desigualdades entre profissionais de saúde.
 
-O que não esta no programa eleitoral 
-- Sistemas de informação para a saúde não são mencionados, Portugal está razoavelmente bem equipado nesta área, será este um sinal de de-priorização? 
-- Financiamento dos Hospitais, os hospitais EPE estão num ciclo de geração de divida e bail-out não há medidas especificas de revisão da forma de financiamento dos hospitais EPE
-- Portugal ‘e o campeão da OCDE em uso dos serviços de urgência, não há medidas especificas para abordar este problema
-- Portugal tem em comparação com outros países da OCDE um défice de enfermeiros, seria interessante repensar as funções do enfeiro no SNS.
+O que não esta no programa eleitoral:
+
++ Sistemas de informação para a saúde não são mencionados, Portugal está razoavelmente bem equipado nesta área, será este um sinal de de-priorização? 
+
++ Financiamento dos Hospitais, os hospitais EPE estão num ciclo de geração de divida e bail-out não há medidas especificas de revisão da forma de financiamento dos hospitais EPE
+
++ Portugal ‘e o campeão da OCDE em uso dos serviços de urgência, não há medidas especificas para abordar este problema
+
++Portugal tem em comparação com outros países da OCDE um défice de enfermeiros, seria interessante repensar as funções do enfeiro no SNS.
 
  
 
