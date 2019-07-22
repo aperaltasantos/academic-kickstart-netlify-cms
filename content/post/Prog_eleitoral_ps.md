@@ -15,7 +15,7 @@ header:
 
 To all the policy nerds elections are exciting times, Portugal will have parliament election in October 2019. This post will be mainly in Portuguese but with a short section in English.  In this series, I will analyze the electoral program of the parties represented in the parliament 2015/2019. The objective is to do a non-partisan analysis, opinions are my own. 
 
-
+__Engligh analysis at the end__
 
 ### Análise ao programa eleitoral do Partido Socialista
 
