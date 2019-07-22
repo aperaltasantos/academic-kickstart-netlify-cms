@@ -1,4 +1,4 @@
-baseURL = "https://www.aperaltasantos.com/"
+baseurl = "/"
 title = "Andre Peralta Santos MD"
 copyright = "©2019-2029 A. Peralta Santos All Rights Reserved"
 theme = "academic"
