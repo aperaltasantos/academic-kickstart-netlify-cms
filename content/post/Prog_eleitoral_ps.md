@@ -1,16 +1,18 @@
 ---
-title: Health Policy News  
-date: '2019-07-21T01:05:00+02:00'
-lastmod: '2019-07-21T01:05:00+02:00'
+title: Health Policy News 2 
+date: '2019-06-09T01:05:00+02:00'
+lastmod: '2019-06-09T01:05:00+02:00'
 draft: false
 tags:
   - academic
   - personal
-summary: Health Policy, Elections, 
+summary: Universal Health Coverage, blockchain, and other random news about health policy around the world
 header:
-  caption: Elections
-  image: /img/vote_pt.jpg
+  caption: Lisbon
+  image: /img/china.jpg
 ---
+
+
 To all the policy Nerds elections are exciting times, Portugal will have parliament election in October 2019. This post will be mainly in Portuguese but with a short section in English.  In this series, I will analyze the electoral program of the parties represented in the parliament 2015/2019. The objective is to do a non-partisan analysis, opinions are my own. 
 
 
