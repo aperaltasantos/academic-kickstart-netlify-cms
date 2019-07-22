@@ -1,19 +1,19 @@
 ---
-title: Health Policy News 2 
-date: '2019-06-09T01:05:00+02:00'
-lastmod: '2019-06-09T01:05:00+02:00'
+title: Health Policy | Elections in Portugal  
+date: '2019-07-21T01:05:00+02:00'
+lastmod: '2019-07-21T01:05:00+02:00'
 draft: false
 tags:
   - academic
   - personal
-summary: Universal Health Coverage, blockchain, and other random news about health policy around the world
+summary: Elections, Portugal, Health Policy
 header:
-  caption: Lisbon
-  image: /img/china.jpg
+  caption: Elections
+  image: /img/vote_pt.jpg
 ---
 
 
-To all the policy Nerds elections are exciting times, Portugal will have parliament election in October 2019. This post will be mainly in Portuguese but with a short section in English.  In this series, I will analyze the electoral program of the parties represented in the parliament 2015/2019. The objective is to do a non-partisan analysis, opinions are my own. 
+To all the policy nerds elections are exciting times, Portugal will have parliament election in October 2019. This post will be mainly in Portuguese but with a short section in English.  In this series, I will analyze the electoral program of the parties represented in the parliament 2015/2019. The objective is to do a non-partisan analysis, opinions are my own. 
 
 
 
@@ -55,12 +55,12 @@ The main new policies for the Portuguese Health System by the Social-Democrats P
 
 There several proposals for the expansion of the “basket of care”: inclusion of universal dental care for children under 6 years old, inclusion of glasses for residents under 18 years old. In the service delivery policies, the outpatient visits will be expanded to include Saturday, and the appointments will have a starting hour (yes, they still don’t have it in many facilities, one could have an appointment that only mentions 9am, like other 25 people, and the actual appointment only happens at 1pm). 
 
-In the health workforce the Social-Democrats Portuguese Party proposes the inclusion of kindergarten facilities and some generic proposal of improvements in the geographic allocations of health professionals. 
+In the health workforce the Social-Democrats Portuguese Party proposes the inclusion of kindergarten facilities and some generic proposal of improvements in the geographic allocations of health professionals. No policy porposals on workforce skill-mix. 
 
 There are no proposals tacking the emergency care demand, nor specific objective in terms of health financing as percentage of the public spending.  
 
-INNOVATIONS   _*_*_*
+INNOVATIONS   * * *
 
-FEASABILITY   _*_*_*_*_*
+FEASABILITY   * * * * *
 
-BUDGET IMPACT _*_*_*
+BUDGET IMPACT * * (*)
